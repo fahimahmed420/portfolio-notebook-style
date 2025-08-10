@@ -1,12 +1,79 @@
-# React + Vite
+<h1 align="center">📖 Interactive Portfolio Flipbook</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-React-blue?style=for-the-badge&logo=react" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
+  <img src="https://img.shields.io/badge/React%20PageFlip-FF7F50?style=for-the-badge" alt="React PageFlip Badge"/>
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ About the Project
 
-## Expanding the ESLint configuration
+This is a **MERN Stack Developer Portfolio** presented in a **realistic page-flipping book style** 📚.  
+It’s an **interactive showcase** of skills, projects, and achievements — just like flipping through a real portfolio.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project uses:
+- **React** for the UI  
+- **Tailwind CSS** for styling  
+- **HTML FlipBook** for the page-turning effect  
+- A **handwriting-style font** for a personal touch ✍️  
+
+---
+
+## 📸 Screenshots
+
+| Portfolio Cover | Certifications Page | Education Page |
+|-----------------|----------------------|----------------|
+| ![Cover](./screenshots/cover.png) | ![Certs](./screenshots/certifications.png) | ![Education](./screenshots/education.png) |
+
+---
+
+## 🚀 Features
+
+✅ Realistic **page flip animation**  
+✅ Handwritten-style typography for a creative look  
+✅ **Certificates with taped & tilted effect** for a scrapbook vibe  
+✅ Education page with an **image & tape corners**  
+✅ Clean, responsive design for all devices  
+✅ All sections: Summary, Skills, Education, Certifications, Projects, Experience, Languages  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS, Framer Motion
+- **Page Flip:** [`react-pageflip`](https://www.npmjs.com/package/react-pageflip)
+- **Styling Helpers:** DaisyUI (optional)
+- **Fonts:** [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) from Google Fonts
+
+---
+
+## 📂 Folder Structure
+
+📦 my-portfolio-flipbook
+┣ 📂 public
+┃ ┣ freecodecamp-cert.png
+┃ ┣ google-digital-garage-cert.png
+┃ ┗ education-photo.png
+┣ 📂 src
+┃ ┣ 📜 App.jsx
+┃ ┣ 📜 SimpleBook.jsx
+┃ ┗ 📜 index.css
+┣ 📜 package.json
+┗ 📜 README.md
+
+## ⚡ Installation & Setup
+
+```bash
+# 1️⃣ Clone the repo
+git clone https://github.com/fahimahmed420/portfolio-notebook-style
+
+# 2️⃣ Navigate to project folder
+cd portfolio-flipbook
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Run the development server
+npm start
