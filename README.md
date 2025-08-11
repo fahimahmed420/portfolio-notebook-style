@@ -53,19 +53,20 @@ The project uses:
 
 📦 my-portfolio-flipbook <br/>
 ┣ 📂 public <br/>
-┃ ┣ main-logo.svg <br/>
-┃ ┣ freecodecamp-cert.png <br/>
-┃ ┣ google-digital-garage-cert.png <br/>
-┃ ┣ cover.png <br/>
-┃ ┣ edu page.png <br/>
-┃ ┣ certificate page.png <br/>
-┃ ┗ education-photo.png <br/>
+┃ ┣ 🖼️ main-logo.svg <br/>
+┃ ┣ 🖼️ freecodecamp-cert.png <br/>
+┃ ┣ 🖼️ google-digital-garage-cert.png <br/>
+┃ ┣ 🖼️ cover.png <br/>
+┃ ┣ 🖼️ edu page.png <br/>
+┃ ┣ 🖼️ certificate page.png <br/>
+┃ ┗ 🖼️ education-photo.png <br/>
 ┣ 📂 src <br/>
-┃ ┣ 📜 App.jsx <br/>
-┃ ┣ 📜 SimpleBook.jsx <br/>
-┃ ┗ 📜 index.css <br/>
-┣ 📜 package.json <br/>
-┗ 📜 README.md <br/>
+┃ ┣ 📂 Pages <br/>
+┃ ┃ ┗ 📄 SimpleBook.jsx <br/>
+┃ ┣ 📄 App.jsx <br/>
+┃ ┗ 🎨 index.css <br/>
+┣ 📦 package.json <br/>
+┗ 📄 README.md <br/>
 
 ## ⚡ Installation & Setup
 
