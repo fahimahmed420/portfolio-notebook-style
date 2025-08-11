@@ -122,7 +122,7 @@ export default function SimpleBook() {
 
                                 {/* Image */}
                                 <img
-                                    src="/public/city.jpg" 
+                                    src="/education-photo.jpg" 
                                     alt="Education"
                                     className="rounded shadow-lg transform rotate-[1.5deg] w-96 h-auto"
                                 />
@@ -151,7 +151,7 @@ export default function SimpleBook() {
 
                                 {/* Image */}
                                 <img
-                                    src="/Capture (1).PNG"
+                                    src="/freecodecamp-cert.PNG"
                                     alt="Responsive Web Design Certificate"
                                     className="rounded shadow-lg transform rotate-[-2deg] w-96 h-auto"
                                 />
@@ -173,7 +173,7 @@ export default function SimpleBook() {
 
                                 {/* Image */}
                                 <img
-                                    src="/Capture.png"
+                                    src="/google-digital-garage-cert.png"
                                     alt="Fundamentals of Digital Marketing Certificate"
                                     className="rounded shadow-lg transform rotate-[1.5deg] w-96 h-auto"
                                 />

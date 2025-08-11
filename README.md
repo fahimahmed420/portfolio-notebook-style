@@ -25,7 +25,7 @@ The project uses:
 
 | Portfolio Cover | Certifications Page | Education Page |
 |-----------------|----------------------|----------------|
-| ![Cover](./public/cover.png) | ![Certs](./public/Capture%20(1).PNG) | ![Education](./public/city.jpg) |
+| ![Cover](./public/cover.png) | ![Certs](./public/certificate%20page.png) | ![Education](./public/edu%20page.png) |
 
 ---
 
@@ -53,8 +53,12 @@ The project uses:
 
 📦 my-portfolio-flipbook <br/>
 ┣ 📂 public <br/>
+┃ ┣ main-logo.svg <br/>
 ┃ ┣ freecodecamp-cert.png <br/>
 ┃ ┣ google-digital-garage-cert.png <br/>
+┃ ┣ cover.png <br/>
+┃ ┣ edu page.png <br/>
+┃ ┣ certificate page.png <br/>
 ┃ ┗ education-photo.png <br/>
 ┣ 📂 src <br/>
 ┃ ┣ 📜 App.jsx <br/>
