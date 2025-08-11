@@ -25,7 +25,7 @@ The project uses:
 
 | Portfolio Cover | Certifications Page | Education Page |
 |-----------------|----------------------|----------------|
-| ![Cover](./screenshots/cover.png) | ![Certs](./screenshots/certifications.png) | ![Education](./screenshots/education.png) |
+| ![Cover](./public/cover.png) | ![Certs](./public/Capture%20(1).PNG) | ![Education](./public/city.jpg) |
 
 ---
 
@@ -51,17 +51,17 @@ The project uses:
 
 ## 📂 Folder Structure
 
-📦 my-portfolio-flipbook
-┣ 📂 public
-┃ ┣ freecodecamp-cert.png
-┃ ┣ google-digital-garage-cert.png
-┃ ┗ education-photo.png
-┣ 📂 src
-┃ ┣ 📜 App.jsx
-┃ ┣ 📜 SimpleBook.jsx
-┃ ┗ 📜 index.css
-┣ 📜 package.json
-┗ 📜 README.md
+📦 my-portfolio-flipbook <br/>
+┣ 📂 public <br/>
+┃ ┣ freecodecamp-cert.png <br/>
+┃ ┣ google-digital-garage-cert.png <br/>
+┃ ┗ education-photo.png <br/>
+┣ 📂 src <br/>
+┃ ┣ 📜 App.jsx <br/>
+┃ ┣ 📜 SimpleBook.jsx <br/>
+┃ ┗ 📜 index.css <br/>
+┣ 📜 package.json <br/>
+┗ 📜 README.md <br/>
 
 ## ⚡ Installation & Setup
 
